@@ -1,5 +1,7 @@
 package com.wkeyword.day02;
-
+/*
+ * 单链表的练习例子
+ */
 class seltList {
 	private int data;// 定义数据
 	private seltList next;// 指向下一个数据的指针
