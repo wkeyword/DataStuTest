@@ -1,5 +1,7 @@
 package com.wkeyword.day01;
-
+/*
+ * 考虑到内存占用方面的优化，可以使用StringBuilder 来进行优化
+ */
 public class AA {
 	public static void main(String[] args) {
 //		String s="";

@@ -1,6 +1,7 @@
 package com.wkeyword.day01;
 /*
  * JAVA会自动匹配
+ * 这个测试案例主要是测试JAVA的泛型与自动匹配的功能呢
  */
 public class Test05 {
 
